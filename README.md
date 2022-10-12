@@ -2,7 +2,7 @@ Created simple App Deployment Demo for myself to troubleshoot issues I've had de
 
 This app had errors in the beginning but is now successfully launched.
 
-DESPITE what online tutorials stated; the fix to my Heroku errors came from REMOVING the https://github.com/mars/create-react-app-buildpack that was provided to add to your Heroku buildpack. 
+DESPITE what online tutorials stated; the fix to my Heroku errors came from REMOVING the https://github.com/mars/create-react-app-buildpack that was stated to add to your Heroku buildpack. 
 
 I only have heroku/nodejs as a buildpack for this app.
 
